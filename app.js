@@ -1,8 +1,9 @@
 
 
 // const entered = document.getElementById('input').value;
-let currentValue = 0;
+let currentValue = 1;
 
+let startingValue = document.getElementById('input').value = 1;
 
  function add(){
     let input = parseInt(document.getElementById('input').value);
