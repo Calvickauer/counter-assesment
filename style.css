@@ -1,0 +1,45 @@
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main {
+    margin-top: 10%;
+}
+
+#addSubtract {
+    margin-top: 15%;
+}
+
+#result {
+   position: absolute;
+    margin-left: 45%;
+    margin-top: 4%;
+    font-size: 80px;
+}
+
+#add {
+    width: 80px;
+    height: 80px;
+    background-color: lightgrey;
+    color: white;
+    font-size: 24px;
+    /* font-size: 70px; */
+}
+
+#subtract {
+    width: 80px;
+    height: 80px;
+    background-color: lightgrey;
+    color: white;
+    font-size: 24px;
+    /* font-size: 70px; */
+}
+
+#input {
+    width: 100px;
+    height: 75px;
+    border: 2px solid lightgrey;
+    font-size: 24px;
+}
